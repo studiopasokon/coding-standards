@@ -16,6 +16,10 @@ A specific, basic set of NuGet packages will be used. The selection of those pac
 
 It is definitly not required but keeping a copy of the library code might be useful to consider in case a library maintainer suddenly decides to remove the library on which any current projects are depending on.
 
+Selected packages:
+
+- [Command line parsing](https://github.com/commandlineparser/commandline)
+
 ## References
 
 [Microsoft C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
